@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "Mac-1024",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
